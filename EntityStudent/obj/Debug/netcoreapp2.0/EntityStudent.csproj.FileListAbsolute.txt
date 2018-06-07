@@ -1,0 +1,11 @@
+c:\users\naimisha.g\source\repos\EntityStudent\EntityStudent\bin\Debug\netcoreapp2.0\EntityStudent.deps.json
+c:\users\naimisha.g\source\repos\EntityStudent\EntityStudent\bin\Debug\netcoreapp2.0\EntityStudent.runtimeconfig.json
+c:\users\naimisha.g\source\repos\EntityStudent\EntityStudent\bin\Debug\netcoreapp2.0\EntityStudent.runtimeconfig.dev.json
+c:\users\naimisha.g\source\repos\EntityStudent\EntityStudent\bin\Debug\netcoreapp2.0\EntityStudent.dll
+c:\users\naimisha.g\source\repos\EntityStudent\EntityStudent\obj\Debug\netcoreapp2.0\EntityStudent.csprojAssemblyReference.cache
+c:\users\naimisha.g\source\repos\EntityStudent\EntityStudent\obj\Debug\netcoreapp2.0\EntityStudent.csproj.CoreCompileInputs.cache
+c:\users\naimisha.g\source\repos\EntityStudent\EntityStudent\obj\Debug\netcoreapp2.0\EntityStudent.AssemblyInfoInputs.cache
+c:\users\naimisha.g\source\repos\EntityStudent\EntityStudent\obj\Debug\netcoreapp2.0\EntityStudent.AssemblyInfo.cs
+c:\users\naimisha.g\source\repos\EntityStudent\EntityStudent\bin\Debug\netcoreapp2.0\EntityStudent.pdb
+c:\users\naimisha.g\source\repos\EntityStudent\EntityStudent\obj\Debug\netcoreapp2.0\EntityStudent.dll
+c:\users\naimisha.g\source\repos\EntityStudent\EntityStudent\obj\Debug\netcoreapp2.0\EntityStudent.pdb
